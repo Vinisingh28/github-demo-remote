@@ -3,7 +3,7 @@ def add(x,y):
     return x+y
 #substract implementation
 def substract(x,y):
-    pass
+    return x-y  #from remote
 #multiply implementation
 def multiply(x,y):
     pass
